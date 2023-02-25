@@ -11,7 +11,7 @@ In this project, I had to develop a form page for the Trybewarts School of Magic
 <details>
 
 <div align="center">
-<img src="" width="640px"/>
+<img src="https://user-images.githubusercontent.com/120792207/221375640-d56fb2c6-7e87-454c-aa38-1b6ed2c3b65c.gif" width="640px"/>
 </div>
 
 </details>
