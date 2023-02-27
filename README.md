@@ -2,9 +2,9 @@
 
 <summary><strong>🧑‍💻 O que foi desenvolvido no projeto</strong></summary><br />
 
-Neste projeto, tive que desenvolver uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela. O tema desse projeto é baseado na obra 'Harry Potter', de J. K. Rowling, já que programar é o mais próximo que podemos chegar de algo verdadeiramente mágico!
+Neste projeto em dupla, tivemos que desenvolver uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela. O tema desse projeto é baseado na obra 'Harry Potter', de J. K. Rowling, já que programar é o mais próximo que podemos chegar de algo verdadeiramente mágico!
 
-In this project, I had to develop a form page for the Trybewarts School of Magic, where students can send their feedback about it. The theme of this project is based on the book 'Harry Potter', by J. K. Rowling, as programming is the closest we can get to something truly magical!
+In this duo project, we had to develop a Trybewarts School of Magic form page, where students can send their feedback about it. The theme of this project is based on the book 'Harry Potter', by J. K. Rowling, as programming is the closest we can get to something truly magical!
 
 ## Demonstração
 
