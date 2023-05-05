@@ -26,22 +26,22 @@ In this duo project, we had to develop a Trybewarts School of Magic form page, w
 ## :mortar_board: Authors
 
 <table align="center">
-    <tr>
-        <td align="center">
-            <a href="https://github.com/abel-mariano">
-                <img src="https://avatars.githubusercontent.com/abel-mariano" width="100px;" alt="Image user" />
-                <br />
-                <sub><b>Abel Mariano</b></sub>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/Junior-Piovesan">
-                <img src="https://avatars.githubusercontent.com/Junior-Piovesan" width="100px;" alt="Image user" />
-                <br />
-                <sub><b>Junior Piovesan</b></sub>
-            </a>
-        </td>
-    </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/abel-mariano">
+        <img src="https://avatars.githubusercontent.com/abel-mariano" width="100px;" alt="Image user" />
+        <br />
+        <sub><b>Abel Mariano</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Junior-Piovesan">
+        <img src="https://avatars.githubusercontent.com/Junior-Piovesan" width="100px;" alt="Image user" />
+        <br />
+        <sub><b>Junior Piovesan</b></sub>
+      </a>
+    </td>
+  </tr>
 </table>
 <h4 align="center">
    Made by  <a href="https://www.linkedin.com/in/abelmariano/" target="_blank"> Abel Mariano </a> and <a href="https://www.linkedin.com/in/junior-piovesan-8851121a2/" target="_blank"> Junior Piovesan </a>
